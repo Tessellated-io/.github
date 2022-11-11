@@ -11,4 +11,6 @@
 
 Our members are active contributors to the ecosystem, contributing to projects like [Skip](https://skip.money), [Flashbake](https://flashbake.xyz).
 
-Like what you see? Consider telling your friends, or sending a delegation our way! Want to know more? [Feel free to reach out](mailto:team@tessellatedgeometry.com)!
+Like what you see? Consider telling your friends, or sending a delegation our way! 
+
+Want to know more? [Feel free to reach out](mailto:team@tessellatedgeometry.com)!
